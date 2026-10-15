@@ -1,0 +1,6 @@
+{
+  "name": "ClassRoll",
+  "description": "Clean, professional attendance tracking for teachers with class rosters, real-time rolls, calendar history, student profiles, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
